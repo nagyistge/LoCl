@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">LocalStore</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Trying...!</string>
     <string name="action_settings">Settings</string>
+    <string name="pickIage">Select Image to upload</string>
 </resources>
